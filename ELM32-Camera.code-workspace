@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../gitHubLocals/ELM32-Camera"
+		},
+		{
+			"name": "Mousecam",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
